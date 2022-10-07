@@ -1,0 +1,48 @@
+body{
+    margin-left: 30%;
+    margin-right: 30%;
+}
+/* Yuxari hisse */
+.top{
+    margin-left: 10%;
+    margin-right: 10%;
+    margin-top: -1%;
+    text-align: center;
+}
+.indent{
+    margin-top: -0.5%;
+    margin-bottom: -0.5%;
+}
+#summary{
+    margin-bottom: -4%;
+}
+/* Xetler */
+.Line{
+    border-bottom: 1px solid peru;
+}
+/* basliqlar */
+.left-first{
+  font-weight: bold;
+  text-transform: uppercase;
+}
+.right-first{
+    font-weight: bold;
+    float: right;
+}
+/* Basliqlarin alti */
+.left-text{
+    text-transform: uppercase;
+}
+.right{
+    text-transform: uppercase;
+    float: right;
+    font-size: medium;
+}
+.bottom{
+    font-weight: 600;
+   font-size: smaller;
+   text-align: center;
+}
+h3{
+    color:peru;
+}
